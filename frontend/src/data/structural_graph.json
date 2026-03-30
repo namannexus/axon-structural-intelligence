@@ -1,0 +1,1162 @@
+{
+  "nodes": [
+    {
+      "id": "node_4aaa1257",
+      "x": 7.076923076923077,
+      "y": 9.846153846153847
+    },
+    {
+      "id": "node_9ac7549d",
+      "x": 416.2307692307692,
+      "y": 9.846153846153847
+    },
+    {
+      "id": "node_2bc8cca3",
+      "x": 253.83333333333334,
+      "y": 259.1666666666667
+    },
+    {
+      "id": "node_ef4036f4",
+      "x": 415.0,
+      "y": 262.6
+    },
+    {
+      "id": "node_66bad383",
+      "x": 7.4,
+      "y": 262.0
+    },
+    {
+      "id": "node_4284741e",
+      "x": 186.33333333333334,
+      "y": 261.3333333333333
+    },
+    {
+      "id": "node_e04a7fa6",
+      "x": 6.0,
+      "y": 138.33333333333334
+    },
+    {
+      "id": "node_022772a7",
+      "x": 215.41666666666666,
+      "y": 133.41666666666666
+    },
+    {
+      "id": "node_5f5f2f0b",
+      "x": 262.6666666666667,
+      "y": 140.83333333333334
+    },
+    {
+      "id": "node_05b6793a",
+      "x": 415.0,
+      "y": 138.0
+    },
+    {
+      "id": "node_ccffd992",
+      "x": 405.77777777777777,
+      "y": 30.11111111111111
+    },
+    {
+      "id": "node_ae623c57",
+      "x": 405.8888888888889,
+      "y": 92.88888888888889
+    },
+    {
+      "id": "node_d0650696",
+      "x": 75.0,
+      "y": 197.8
+    },
+    {
+      "id": "node_7783b5d5",
+      "x": 144.83333333333334,
+      "y": 197.83333333333334
+    },
+    {
+      "id": "node_043c92bc",
+      "x": 211.75,
+      "y": 15.5
+    },
+    {
+      "id": "node_8dde9445",
+      "x": 212.5,
+      "y": 87.0
+    },
+    {
+      "id": "node_7e408ea0",
+      "x": 213.0,
+      "y": 263.0
+    },
+    {
+      "id": "node_db3f5712",
+      "x": 239.75,
+      "y": 198.375
+    },
+    {
+      "id": "node_8bba6687",
+      "x": 289.625,
+      "y": 198.375
+    },
+    {
+      "id": "node_abb9912c",
+      "x": 70.0,
+      "y": 71.66666666666667
+    },
+    {
+      "id": "node_1c6acdfe",
+      "x": 149.0,
+      "y": 71.66666666666667
+    },
+    {
+      "id": "node_516bf59e",
+      "x": 279.5,
+      "y": 72.0
+    },
+    {
+      "id": "node_4c8a8bed",
+      "x": 345.5,
+      "y": 72.83333333333333
+    },
+    {
+      "id": "node_e4fdd0be",
+      "x": 112.0,
+      "y": 194.0
+    },
+    {
+      "id": "node_9a4a00c3",
+      "x": 210.0,
+      "y": 228.0
+    },
+    {
+      "id": "node_9fbfbb15",
+      "x": 218.0,
+      "y": 184.5
+    },
+    {
+      "id": "node_ddb626e3",
+      "x": 39.0,
+      "y": 13.0
+    },
+    {
+      "id": "node_47035058",
+      "x": 109.0,
+      "y": 13.0
+    },
+    {
+      "id": "node_58b680cd",
+      "x": 255.0,
+      "y": 14.0
+    },
+    {
+      "id": "node_267f061c",
+      "x": 324.5,
+      "y": 14.0
+    },
+    {
+      "id": "node_90f338cb",
+      "x": 405.6666666666667,
+      "y": 154.16666666666666
+    },
+    {
+      "id": "node_e6d59c93",
+      "x": 406.5,
+      "y": 218.0
+    },
+    {
+      "id": "node_5962d6e2",
+      "x": 13.5,
+      "y": 99.25
+    },
+    {
+      "id": "node_6c44176c",
+      "x": 13.75,
+      "y": 42.0
+    },
+    {
+      "id": "node_22b334c2",
+      "x": 13.5,
+      "y": 230.5
+    },
+    {
+      "id": "node_2e51c474",
+      "x": 14.5,
+      "y": 154.5
+    },
+    {
+      "id": "node_f5feb489",
+      "x": 318.3333333333333,
+      "y": 262.3333333333333
+    },
+    {
+      "id": "node_800247a6",
+      "x": 319.3333333333333,
+      "y": 140.33333333333334
+    },
+    {
+      "id": "node_69c78a85",
+      "x": 177.6,
+      "y": 303.8
+    },
+    {
+      "id": "node_113d907b",
+      "x": 257.0,
+      "y": 304.875
+    },
+    {
+      "id": "node_e6018143",
+      "x": 214.0,
+      "y": 54.0
+    },
+    {
+      "id": "node_92d423c5",
+      "x": 317.5,
+      "y": 189.0
+    },
+    {
+      "id": "node_3f5ce2f8",
+      "x": 404.5,
+      "y": 44.0
+    },
+    {
+      "id": "node_7b8c8680",
+      "x": 411.0,
+      "y": 77.0
+    },
+    {
+      "id": "node_cea105f9",
+      "x": 214.5,
+      "y": 175.5
+    },
+    {
+      "id": "node_d24fa33b",
+      "x": 359.0,
+      "y": 262.0
+    },
+    {
+      "id": "node_50679476",
+      "x": 58.0,
+      "y": 137.0
+    },
+    {
+      "id": "node_f2c35184",
+      "x": 171.0,
+      "y": 138.0
+    },
+    {
+      "id": "node_09a7950c",
+      "x": 356.0,
+      "y": 139.0
+    },
+    {
+      "id": "node_7c6579cd",
+      "x": 214.0,
+      "y": 79.5
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_c927ff2a",
+      "source": "node_4aaa1257",
+      "target": "node_9ac7549d",
+      "wall_id": "wall_b7c524d5",
+      "length": 412.0
+    },
+    {
+      "id": "edge_43003961",
+      "source": "node_4aaa1257",
+      "target": "node_9ac7549d",
+      "wall_id": "wall_5b6d93d3",
+      "length": 411.0
+    },
+    {
+      "id": "edge_290d2cab",
+      "source": "node_4aaa1257",
+      "target": "node_9ac7549d",
+      "wall_id": "wall_dfa51e5d",
+      "length": 412.0
+    },
+    {
+      "id": "edge_0be92f21",
+      "source": "node_2bc8cca3",
+      "target": "node_ef4036f4",
+      "wall_id": "wall_276cc03e",
+      "length": 165.0
+    },
+    {
+      "id": "edge_a7eec615",
+      "source": "node_4aaa1257",
+      "target": "node_9ac7549d",
+      "wall_id": "wall_d7a6b1c0",
+      "length": 413.0
+    },
+    {
+      "id": "edge_680e6c81",
+      "source": "node_66bad383",
+      "target": "node_4284741e",
+      "wall_id": "wall_c7dd7b36",
+      "length": 177.0
+    },
+    {
+      "id": "edge_27eb7043",
+      "source": "node_4aaa1257",
+      "target": "node_9ac7549d",
+      "wall_id": "wall_8f13e0f5",
+      "length": 412.0
+    },
+    {
+      "id": "edge_680da0e2",
+      "source": "node_4aaa1257",
+      "target": "node_9ac7549d",
+      "wall_id": "wall_1028f600",
+      "length": 412.0
+    },
+    {
+      "id": "edge_661b8e44",
+      "source": "node_66bad383",
+      "target": "node_4284741e",
+      "wall_id": "wall_3df879e0",
+      "length": 177.0
+    },
+    {
+      "id": "edge_5bb5cf17",
+      "source": "node_66bad383",
+      "target": "node_4284741e",
+      "wall_id": "wall_89ce7f9f",
+      "length": 188.0
+    },
+    {
+      "id": "edge_66ae92cd",
+      "source": "node_66bad383",
+      "target": "node_ef4036f4",
+      "wall_id": "wall_f0d17fc8",
+      "length": 412.0
+    },
+    {
+      "id": "edge_9bfeb7bf",
+      "source": "node_e04a7fa6",
+      "target": "node_022772a7",
+      "wall_id": "wall_1b214423",
+      "length": 214.0
+    },
+    {
+      "id": "edge_ce681f99",
+      "source": "node_4aaa1257",
+      "target": "node_9ac7549d",
+      "wall_id": "wall_74b31ac1",
+      "length": 411.0
+    },
+    {
+      "id": "edge_5267d48d",
+      "source": "node_5f5f2f0b",
+      "target": "node_05b6793a",
+      "wall_id": "wall_16413d2f",
+      "length": 155.0
+    },
+    {
+      "id": "edge_4e814657",
+      "source": "node_e04a7fa6",
+      "target": "node_022772a7",
+      "wall_id": "wall_26058cc4",
+      "length": 214.0
+    },
+    {
+      "id": "edge_4592e560",
+      "source": "node_e04a7fa6",
+      "target": "node_022772a7",
+      "wall_id": "wall_c7adb975",
+      "length": 214.0
+    },
+    {
+      "id": "edge_0761d4ad",
+      "source": "node_5f5f2f0b",
+      "target": "node_05b6793a",
+      "wall_id": "wall_e62b217b",
+      "length": 155.0
+    },
+    {
+      "id": "edge_f15152ab",
+      "source": "node_2bc8cca3",
+      "target": "node_ef4036f4",
+      "wall_id": "wall_12894d72",
+      "length": 165.0
+    },
+    {
+      "id": "edge_964bf38d",
+      "source": "node_ccffd992",
+      "target": "node_ae623c57",
+      "wall_id": "wall_aecc6e1e",
+      "length": 64.03
+    },
+    {
+      "id": "edge_0631002b",
+      "source": "node_ef4036f4",
+      "target": "node_9ac7549d",
+      "wall_id": "wall_c7fce7b3",
+      "length": 251.0
+    },
+    {
+      "id": "edge_7c71a838",
+      "source": "node_66bad383",
+      "target": "node_4aaa1257",
+      "wall_id": "wall_fd59a49a",
+      "length": 250.0
+    },
+    {
+      "id": "edge_a79c148c",
+      "source": "node_66bad383",
+      "target": "node_4aaa1257",
+      "wall_id": "wall_f16e8292",
+      "length": 250.0
+    },
+    {
+      "id": "edge_9e40c8f4",
+      "source": "node_ef4036f4",
+      "target": "node_9ac7549d",
+      "wall_id": "wall_4f340321",
+      "length": 251.0
+    },
+    {
+      "id": "edge_254d848b",
+      "source": "node_d0650696",
+      "target": "node_7783b5d5",
+      "wall_id": "wall_cfcdfbe6",
+      "length": 70.01
+    },
+    {
+      "id": "edge_254a7357",
+      "source": "node_ef4036f4",
+      "target": "node_9ac7549d",
+      "wall_id": "wall_8b508a55",
+      "length": 251.0
+    },
+    {
+      "id": "edge_e0891508",
+      "source": "node_043c92bc",
+      "target": "node_8dde9445",
+      "wall_id": "wall_aa76c056",
+      "length": 75.01
+    },
+    {
+      "id": "edge_311c0d09",
+      "source": "node_ef4036f4",
+      "target": "node_9ac7549d",
+      "wall_id": "wall_81d2c81f",
+      "length": 251.0
+    },
+    {
+      "id": "edge_606772b2",
+      "source": "node_66bad383",
+      "target": "node_4aaa1257",
+      "wall_id": "wall_b0106efb",
+      "length": 250.0
+    },
+    {
+      "id": "edge_054be451",
+      "source": "node_66bad383",
+      "target": "node_4aaa1257",
+      "wall_id": "wall_fba01f8b",
+      "length": 250.0
+    },
+    {
+      "id": "edge_e8afdf0c",
+      "source": "node_ef4036f4",
+      "target": "node_9ac7549d",
+      "wall_id": "wall_4e616dd8",
+      "length": 251.0
+    },
+    {
+      "id": "edge_36a4a8e6",
+      "source": "node_66bad383",
+      "target": "node_4aaa1257",
+      "wall_id": "wall_62079335",
+      "length": 250.0
+    },
+    {
+      "id": "edge_def92eac",
+      "source": "node_66bad383",
+      "target": "node_4aaa1257",
+      "wall_id": "wall_798e000a",
+      "length": 250.0
+    },
+    {
+      "id": "edge_e7929dd6",
+      "source": "node_7e408ea0",
+      "target": "node_022772a7",
+      "wall_id": "wall_3bd752ec",
+      "length": 134.0
+    },
+    {
+      "id": "edge_d118448a",
+      "source": "node_ef4036f4",
+      "target": "node_9ac7549d",
+      "wall_id": "wall_7d4f8b5d",
+      "length": 251.0
+    },
+    {
+      "id": "edge_0f543e70",
+      "source": "node_d0650696",
+      "target": "node_7783b5d5",
+      "wall_id": "wall_cb0ac902",
+      "length": 70.0
+    },
+    {
+      "id": "edge_3b779130",
+      "source": "node_7e408ea0",
+      "target": "node_022772a7",
+      "wall_id": "wall_ad4f7ac0",
+      "length": 133.0
+    },
+    {
+      "id": "edge_5bc3a2b4",
+      "source": "node_d0650696",
+      "target": "node_7783b5d5",
+      "wall_id": "wall_e0744a54",
+      "length": 70.03
+    },
+    {
+      "id": "edge_84a5ce04",
+      "source": "node_db3f5712",
+      "target": "node_8bba6687",
+      "wall_id": "wall_903c4415",
+      "length": 51.0
+    },
+    {
+      "id": "edge_e73e2685",
+      "source": "node_db3f5712",
+      "target": "node_8bba6687",
+      "wall_id": "wall_16d93887",
+      "length": 51.0
+    },
+    {
+      "id": "edge_7b7e8f27",
+      "source": "node_7e408ea0",
+      "target": "node_022772a7",
+      "wall_id": "wall_4234fa26",
+      "length": 134.0
+    },
+    {
+      "id": "edge_0e2f16fa",
+      "source": "node_abb9912c",
+      "target": "node_1c6acdfe",
+      "wall_id": "wall_d10f6446",
+      "length": 79.0
+    },
+    {
+      "id": "edge_dc435d02",
+      "source": "node_516bf59e",
+      "target": "node_4c8a8bed",
+      "wall_id": "wall_41d3f6fd",
+      "length": 69.0
+    },
+    {
+      "id": "edge_3c95c866",
+      "source": "node_e4fdd0be",
+      "target": "node_7783b5d5",
+      "wall_id": "wall_c0db1d1a",
+      "length": 32.0
+    },
+    {
+      "id": "edge_c0b85d6f",
+      "source": "node_9a4a00c3",
+      "target": "node_022772a7",
+      "wall_id": "wall_4c11f13c",
+      "length": 99.01
+    },
+    {
+      "id": "edge_b383d528",
+      "source": "node_022772a7",
+      "target": "node_9fbfbb15",
+      "wall_id": "wall_5882c962",
+      "length": 45.01
+    },
+    {
+      "id": "edge_e29d5589",
+      "source": "node_516bf59e",
+      "target": "node_4c8a8bed",
+      "wall_id": "wall_d2d32596",
+      "length": 69.03
+    },
+    {
+      "id": "edge_35b5573e",
+      "source": "node_ddb626e3",
+      "target": "node_47035058",
+      "wall_id": "wall_88e60e44",
+      "length": 70.0
+    },
+    {
+      "id": "edge_802ed6aa",
+      "source": "node_516bf59e",
+      "target": "node_4c8a8bed",
+      "wall_id": "wall_2f19725f",
+      "length": 69.03
+    },
+    {
+      "id": "edge_5036a8ed",
+      "source": "node_abb9912c",
+      "target": "node_1c6acdfe",
+      "wall_id": "wall_b5912494",
+      "length": 79.0
+    },
+    {
+      "id": "edge_4bcab43e",
+      "source": "node_58b680cd",
+      "target": "node_267f061c",
+      "wall_id": "wall_508612dc",
+      "length": 69.0
+    },
+    {
+      "id": "edge_406f945f",
+      "source": "node_90f338cb",
+      "target": "node_e6d59c93",
+      "wall_id": "wall_8a7cf7c9",
+      "length": 64.01
+    },
+    {
+      "id": "edge_1a63afd2",
+      "source": "node_58b680cd",
+      "target": "node_267f061c",
+      "wall_id": "wall_d8bcb13a",
+      "length": 70.0
+    },
+    {
+      "id": "edge_d9102aa0",
+      "source": "node_db3f5712",
+      "target": "node_8bba6687",
+      "wall_id": "wall_71a38745",
+      "length": 51.0
+    },
+    {
+      "id": "edge_e296cf07",
+      "source": "node_abb9912c",
+      "target": "node_1c6acdfe",
+      "wall_id": "wall_10d765e8",
+      "length": 79.01
+    },
+    {
+      "id": "edge_2d2982e2",
+      "source": "node_abb9912c",
+      "target": "node_1c6acdfe",
+      "wall_id": "wall_9e1778ce",
+      "length": 79.0
+    },
+    {
+      "id": "edge_e30f7168",
+      "source": "node_db3f5712",
+      "target": "node_8bba6687",
+      "wall_id": "wall_499ac981",
+      "length": 52.01
+    },
+    {
+      "id": "edge_7352f293",
+      "source": "node_ddb626e3",
+      "target": "node_47035058",
+      "wall_id": "wall_8dc940c2",
+      "length": 70.0
+    },
+    {
+      "id": "edge_9cf2f1df",
+      "source": "node_ae623c57",
+      "target": "node_ccffd992",
+      "wall_id": "wall_9a9975e8",
+      "length": 64.0
+    },
+    {
+      "id": "edge_badb0bf7",
+      "source": "node_5962d6e2",
+      "target": "node_6c44176c",
+      "wall_id": "wall_55ab1f4e",
+      "length": 57.0
+    },
+    {
+      "id": "edge_f88caf5b",
+      "source": "node_22b334c2",
+      "target": "node_2e51c474",
+      "wall_id": "wall_02d16754",
+      "length": 75.0
+    },
+    {
+      "id": "edge_d0e022ba",
+      "source": "node_e6d59c93",
+      "target": "node_90f338cb",
+      "wall_id": "wall_bd720e44",
+      "length": 64.0
+    },
+    {
+      "id": "edge_f30cdda7",
+      "source": "node_5962d6e2",
+      "target": "node_6c44176c",
+      "wall_id": "wall_220ea80a",
+      "length": 56.01
+    },
+    {
+      "id": "edge_b2338947",
+      "source": "node_ccffd992",
+      "target": "node_ae623c57",
+      "wall_id": "wall_a8da864a",
+      "length": 64.03
+    },
+    {
+      "id": "edge_8dd198b3",
+      "source": "node_22b334c2",
+      "target": "node_2e51c474",
+      "wall_id": "wall_9e07fb59",
+      "length": 77.03
+    },
+    {
+      "id": "edge_0f9cfd94",
+      "source": "node_ccffd992",
+      "target": "node_ae623c57",
+      "wall_id": "wall_0a7725df",
+      "length": 64.01
+    },
+    {
+      "id": "edge_1d38e556",
+      "source": "node_abb9912c",
+      "target": "node_1c6acdfe",
+      "wall_id": "wall_eca0b9e3",
+      "length": 79.0
+    },
+    {
+      "id": "edge_8f45b2d9",
+      "source": "node_f5feb489",
+      "target": "node_800247a6",
+      "wall_id": "wall_e231b660",
+      "length": 127.0
+    },
+    {
+      "id": "edge_490dc415",
+      "source": "node_90f338cb",
+      "target": "node_e6d59c93",
+      "wall_id": "wall_45eabe9a",
+      "length": 64.01
+    },
+    {
+      "id": "edge_752cebba",
+      "source": "node_043c92bc",
+      "target": "node_7c6579cd",
+      "wall_id": "wall_6a72bd15",
+      "length": 75.06
+    },
+    {
+      "id": "edge_63a62f44",
+      "source": "node_5f5f2f0b",
+      "target": "node_05b6793a",
+      "wall_id": "wall_c306d058",
+      "length": 148.03
+    },
+    {
+      "id": "edge_368eed83",
+      "source": "node_516bf59e",
+      "target": "node_4c8a8bed",
+      "wall_id": "wall_0a801f5e",
+      "length": 69.0
+    },
+    {
+      "id": "edge_b070ad59",
+      "source": "node_ae623c57",
+      "target": "node_3f5ce2f8",
+      "wall_id": "wall_1eff0b81",
+      "length": 55.0
+    },
+    {
+      "id": "edge_ce4a1cde",
+      "source": "node_ae623c57",
+      "target": "node_ccffd992",
+      "wall_id": "wall_4b10b5f0",
+      "length": 62.0
+    },
+    {
+      "id": "edge_611566f4",
+      "source": "node_5962d6e2",
+      "target": "node_6c44176c",
+      "wall_id": "wall_8d0c55ab",
+      "length": 57.0
+    },
+    {
+      "id": "edge_de8373ff",
+      "source": "node_db3f5712",
+      "target": "node_8bba6687",
+      "wall_id": "wall_e60759b1",
+      "length": 51.0
+    },
+    {
+      "id": "edge_4600ec06",
+      "source": "node_69c78a85",
+      "target": "node_113d907b",
+      "wall_id": "wall_cc1a49e9",
+      "length": 80.0
+    },
+    {
+      "id": "edge_73732374",
+      "source": "node_ccffd992",
+      "target": "node_ae623c57",
+      "wall_id": "wall_9f364d5e",
+      "length": 64.03
+    },
+    {
+      "id": "edge_c8dcccdf",
+      "source": "node_5962d6e2",
+      "target": "node_6c44176c",
+      "wall_id": "wall_5e3b3cc6",
+      "length": 59.0
+    },
+    {
+      "id": "edge_83331f6f",
+      "source": "node_516bf59e",
+      "target": "node_4c8a8bed",
+      "wall_id": "wall_001b05d1",
+      "length": 51.0
+    },
+    {
+      "id": "edge_810e863e",
+      "source": "node_043c92bc",
+      "target": "node_e6018143",
+      "wall_id": "wall_9a6c16e5",
+      "length": 42.01
+    },
+    {
+      "id": "edge_c751b86c",
+      "source": "node_69c78a85",
+      "target": "node_113d907b",
+      "wall_id": "wall_7e4d2f83",
+      "length": 80.01
+    },
+    {
+      "id": "edge_dd43fcdf",
+      "source": "node_69c78a85",
+      "target": "node_113d907b",
+      "wall_id": "wall_4ea020e8",
+      "length": 81.01
+    },
+    {
+      "id": "edge_02a3e4fd",
+      "source": "node_d0650696",
+      "target": "node_7783b5d5",
+      "wall_id": "wall_ebff8831",
+      "length": 70.03
+    },
+    {
+      "id": "edge_eb5ee67a",
+      "source": "node_f5feb489",
+      "target": "node_92d423c5",
+      "wall_id": "wall_659648ee",
+      "length": 74.06
+    },
+    {
+      "id": "edge_ae9f780f",
+      "source": "node_d0650696",
+      "target": "node_7783b5d5",
+      "wall_id": "wall_e717577f",
+      "length": 70.01
+    },
+    {
+      "id": "edge_d8ac5973",
+      "source": "node_90f338cb",
+      "target": "node_e6d59c93",
+      "wall_id": "wall_0ff4e357",
+      "length": 64.01
+    },
+    {
+      "id": "edge_dd3ce75f",
+      "source": "node_ae623c57",
+      "target": "node_3f5ce2f8",
+      "wall_id": "wall_f5d7d8b6",
+      "length": 43.01
+    },
+    {
+      "id": "edge_0a29cacd",
+      "source": "node_7b8c8680",
+      "target": "node_ccffd992",
+      "wall_id": "wall_257c304a",
+      "length": 48.0
+    },
+    {
+      "id": "edge_faf84b35",
+      "source": "node_022772a7",
+      "target": "node_cea105f9",
+      "wall_id": "wall_3b02cafa",
+      "length": 41.01
+    },
+    {
+      "id": "edge_85009bba",
+      "source": "node_5f5f2f0b",
+      "target": "node_800247a6",
+      "wall_id": "wall_f54c8ddf",
+      "length": 56.04
+    },
+    {
+      "id": "edge_7aef3f3f",
+      "source": "node_d24fa33b",
+      "target": "node_ef4036f4",
+      "wall_id": "wall_3ef90326",
+      "length": 56.0
+    },
+    {
+      "id": "edge_9c69ff88",
+      "source": "node_50679476",
+      "target": "node_f2c35184",
+      "wall_id": "wall_04106200",
+      "length": 113.0
+    },
+    {
+      "id": "edge_f37a1a91",
+      "source": "node_69c78a85",
+      "target": "node_113d907b",
+      "wall_id": "wall_52ba7009",
+      "length": 81.0
+    },
+    {
+      "id": "edge_fe12e600",
+      "source": "node_db3f5712",
+      "target": "node_8bba6687",
+      "wall_id": "wall_3dd2d6ce",
+      "length": 47.01
+    },
+    {
+      "id": "edge_6236a2a0",
+      "source": "node_e6d59c93",
+      "target": "node_90f338cb",
+      "wall_id": "wall_ec7a2710",
+      "length": 64.0
+    },
+    {
+      "id": "edge_862efede",
+      "source": "node_5f5f2f0b",
+      "target": "node_09a7950c",
+      "wall_id": "wall_ad927f07",
+      "length": 93.01
+    },
+    {
+      "id": "edge_2ce0a97b",
+      "source": "node_022772a7",
+      "target": "node_9fbfbb15",
+      "wall_id": "wall_ad3679e1",
+      "length": 56.01
+    },
+    {
+      "id": "edge_81c16dfb",
+      "source": "node_92d423c5",
+      "target": "node_f5feb489",
+      "wall_id": "wall_532013ba",
+      "length": 72.06
+    },
+    {
+      "id": "edge_28733cfa",
+      "source": "node_022772a7",
+      "target": "node_9fbfbb15",
+      "wall_id": "wall_47742976",
+      "length": 56.04
+    },
+    {
+      "id": "edge_360dfe00",
+      "source": "node_516bf59e",
+      "target": "node_4c8a8bed",
+      "wall_id": "wall_f09f64cc",
+      "length": 69.01
+    },
+    {
+      "id": "edge_1253ad1f",
+      "source": "node_043c92bc",
+      "target": "node_7c6579cd",
+      "wall_id": "wall_da79af69",
+      "length": 46.01
+    },
+    {
+      "id": "edge_082bc2bf",
+      "source": "node_2bc8cca3",
+      "target": "node_d24fa33b",
+      "wall_id": "wall_44ac49b8",
+      "length": 112.0
+    },
+    {
+      "id": "edge_2ad6dfa8",
+      "source": "node_113d907b",
+      "target": "node_2bc8cca3",
+      "wall_id": "wall_c66b268c",
+      "length": 51.0
+    },
+    {
+      "id": "edge_0e1ff615",
+      "source": "node_db3f5712",
+      "target": "node_8bba6687",
+      "wall_id": "wall_bd7f429b",
+      "length": 50.0
+    },
+    {
+      "id": "edge_b99e687f",
+      "source": "node_113d907b",
+      "target": "node_2bc8cca3",
+      "wall_id": "wall_08d31055",
+      "length": 47.0
+    },
+    {
+      "id": "edge_d3e64652",
+      "source": "node_abb9912c",
+      "target": "node_1c6acdfe",
+      "wall_id": "wall_a2474054",
+      "length": 79.01
+    },
+    {
+      "id": "edge_446cbd6b",
+      "source": "node_90f338cb",
+      "target": "node_e6d59c93",
+      "wall_id": "wall_5b25373a",
+      "length": 63.03
+    },
+    {
+      "id": "edge_b72a019a",
+      "source": "node_113d907b",
+      "target": "node_2bc8cca3",
+      "wall_id": "wall_20caa738",
+      "length": 51.0
+    },
+    {
+      "id": "edge_57cc549a",
+      "source": "node_022772a7",
+      "target": "node_cea105f9",
+      "wall_id": "wall_fe2f7640",
+      "length": 42.05
+    },
+    {
+      "id": "edge_0d2814b2",
+      "source": "node_ae623c57",
+      "target": "node_ccffd992",
+      "wall_id": "wall_c395afa0",
+      "length": 64.01
+    },
+    {
+      "id": "edge_d27131db",
+      "source": "node_db3f5712",
+      "target": "node_8bba6687",
+      "wall_id": "wall_1cffbd2b",
+      "length": 46.0
+    },
+    {
+      "id": "edge_dc16caa2",
+      "source": "node_69c78a85",
+      "target": "node_113d907b",
+      "wall_id": "wall_2750da40",
+      "length": 80.01
+    },
+    {
+      "id": "edge_efadcaf4",
+      "source": "node_5f5f2f0b",
+      "target": "node_800247a6",
+      "wall_id": "wall_d431ee8d",
+      "length": 56.01
+    }
+  ],
+  "wall_types": {
+    "wall_b7c524d5": "load-bearing",
+    "wall_5b6d93d3": "load-bearing",
+    "wall_dfa51e5d": "load-bearing",
+    "wall_276cc03e": "load-bearing",
+    "wall_d7a6b1c0": "load-bearing",
+    "wall_c7dd7b36": "load-bearing",
+    "wall_8f13e0f5": "load-bearing",
+    "wall_1028f600": "load-bearing",
+    "wall_3df879e0": "load-bearing",
+    "wall_89ce7f9f": "load-bearing",
+    "wall_f0d17fc8": "load-bearing",
+    "wall_1b214423": "load-bearing",
+    "wall_74b31ac1": "load-bearing",
+    "wall_16413d2f": "load-bearing",
+    "wall_26058cc4": "load-bearing",
+    "wall_c7adb975": "load-bearing",
+    "wall_e62b217b": "load-bearing",
+    "wall_12894d72": "load-bearing",
+    "wall_aecc6e1e": "partition",
+    "wall_c7fce7b3": "load-bearing",
+    "wall_fd59a49a": "load-bearing",
+    "wall_f16e8292": "load-bearing",
+    "wall_4f340321": "load-bearing",
+    "wall_cfcdfbe6": "partition",
+    "wall_8b508a55": "load-bearing",
+    "wall_aa76c056": "partition",
+    "wall_81d2c81f": "load-bearing",
+    "wall_b0106efb": "load-bearing",
+    "wall_fba01f8b": "load-bearing",
+    "wall_4e616dd8": "load-bearing",
+    "wall_62079335": "load-bearing",
+    "wall_798e000a": "load-bearing",
+    "wall_3bd752ec": "partition",
+    "wall_7d4f8b5d": "load-bearing",
+    "wall_cb0ac902": "partition",
+    "wall_ad4f7ac0": "partition",
+    "wall_e0744a54": "partition",
+    "wall_903c4415": "partition",
+    "wall_16d93887": "partition",
+    "wall_4234fa26": "partition",
+    "wall_d10f6446": "partition",
+    "wall_41d3f6fd": "partition",
+    "wall_c0db1d1a": "partition",
+    "wall_4c11f13c": "partition",
+    "wall_5882c962": "partition",
+    "wall_d2d32596": "partition",
+    "wall_88e60e44": "partition",
+    "wall_2f19725f": "partition",
+    "wall_b5912494": "partition",
+    "wall_508612dc": "partition",
+    "wall_8a7cf7c9": "partition",
+    "wall_d8bcb13a": "partition",
+    "wall_71a38745": "partition",
+    "wall_10d765e8": "partition",
+    "wall_9e1778ce": "partition",
+    "wall_499ac981": "partition",
+    "wall_8dc940c2": "partition",
+    "wall_9a9975e8": "partition",
+    "wall_55ab1f4e": "partition",
+    "wall_02d16754": "partition",
+    "wall_bd720e44": "partition",
+    "wall_220ea80a": "partition",
+    "wall_a8da864a": "partition",
+    "wall_9e07fb59": "partition",
+    "wall_0a7725df": "partition",
+    "wall_eca0b9e3": "partition",
+    "wall_e231b660": "partition",
+    "wall_45eabe9a": "partition",
+    "wall_6a72bd15": "partition",
+    "wall_c306d058": "load-bearing",
+    "wall_0a801f5e": "partition",
+    "wall_1eff0b81": "partition",
+    "wall_4b10b5f0": "partition",
+    "wall_8d0c55ab": "partition",
+    "wall_e60759b1": "partition",
+    "wall_cc1a49e9": "partition",
+    "wall_9f364d5e": "partition",
+    "wall_5e3b3cc6": "partition",
+    "wall_001b05d1": "partition",
+    "wall_9a6c16e5": "partition",
+    "wall_7e4d2f83": "partition",
+    "wall_4ea020e8": "partition",
+    "wall_ebff8831": "partition",
+    "wall_659648ee": "partition",
+    "wall_e717577f": "partition",
+    "wall_0ff4e357": "partition",
+    "wall_f5d7d8b6": "partition",
+    "wall_257c304a": "partition",
+    "wall_3b02cafa": "partition",
+    "wall_f54c8ddf": "partition",
+    "wall_3ef90326": "partition",
+    "wall_04106200": "partition",
+    "wall_52ba7009": "partition",
+    "wall_3dd2d6ce": "partition",
+    "wall_ec7a2710": "partition",
+    "wall_ad927f07": "partition",
+    "wall_ad3679e1": "partition",
+    "wall_532013ba": "partition",
+    "wall_47742976": "partition",
+    "wall_f09f64cc": "partition",
+    "wall_da79af69": "partition",
+    "wall_44ac49b8": "partition",
+    "wall_c66b268c": "partition",
+    "wall_bd7f429b": "partition",
+    "wall_08d31055": "partition",
+    "wall_a2474054": "partition",
+    "wall_5b25373a": "partition",
+    "wall_20caa738": "partition",
+    "wall_fe2f7640": "partition",
+    "wall_c395afa0": "partition",
+    "wall_1cffbd2b": "partition",
+    "wall_2750da40": "partition",
+    "wall_d431ee8d": "partition"
+  }
+}

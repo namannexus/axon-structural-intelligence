@@ -1,0 +1,2377 @@
+{
+  "recommendations": [
+    {
+      "element": "wall_6f3c7c7a",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_47496433",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_4bc95792",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_1031633c",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_7ffad471",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_85328922",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_c322f71c",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_c639d1b9",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_41ff1b28",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_d4a02958",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_3fb53412",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_a0ced3d6",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_eade5a89",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_c6141cf8",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_9d74b1f6",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_6897f568",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_e206aa2d",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_e9407289",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_8ca29266",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_c0a0a02e",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_a1b5b896",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_7b753a38",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_3f4dfebd",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_7fe06a48",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_76149532",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_1c375730",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_25800508",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_cbf6a5ca",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_7ec89c06",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_ba724287",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_6a28b855",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_1cccc5c4",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_ac13d425",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_318723d1",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_567738ce",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_babcb58d",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_f99fd99f",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_4fa74e95",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_7b48d600",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_73b23cbf",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_caeef014",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_666e21dd",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_9efe63d4",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_1b5189e2",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_41238c01",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_1d3fdaac",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_c3915e70",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_c809e0b5",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_23b3b304",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_43b59150",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_2a55bd4e",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_65c56b4d",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_019ab1b0",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_914d674a",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_5069c5e2",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_a962b04b",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_2799551a",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_1d8f48de",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_51689d46",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_f8e3ada2",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_596ca1b5",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_0934c4e6",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_65986392",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_a7ff9575",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_045f17f0",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_08c0ef4d",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_ca126483",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_4dda6d1b",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_22983646",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_9acc5dae",
+      "recommended_materials": [
+        {
+          "material": "High-Strength Steel",
+          "score": 55.0
+        },
+        {
+          "material": "Fly Ash Bricks",
+          "score": 39.9
+        },
+        {
+          "material": "Red Brick (Solid)",
+          "score": 37.0
+        },
+        {
+          "material": "RCC (Reinforced Concrete)",
+          "score": 28.0
+        }
+      ]
+    },
+    {
+      "element": "wall_bd78052d",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_33c61022",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_67a74a4a",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_016389e6",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_d8b784c2",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_5cd4b22b",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_8458f5ae",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_55a31fc4",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_c8384a33",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_5a5f1e02",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_e3867504",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_880ddc87",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_d3de42a3",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_d07faf29",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_c712e819",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_9bba4301",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_e16a07cc",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_13e28fdb",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_107106e3",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_b5edc431",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_0580a34e",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_8d93b5a1",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_8c46560a",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_c1bf7701",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_55349866",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_10f55c85",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_f23be5e9",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_6ae0694a",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_0111fe19",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_a30c2b42",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_16b3abed",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_d86b2ce9",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_e27cc49a",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_56007506",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_935c17d7",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_0bff0591",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_f9b52250",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_0e6961ff",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_80181e9d",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_826d6eac",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_b3a4f8e9",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_0a7dcd9f",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    },
+    {
+      "element": "wall_c31063ad",
+      "recommended_materials": [
+        {
+          "material": "Hollow Concrete Blocks",
+          "score": 81.67
+        },
+        {
+          "material": "AAC Blocks",
+          "score": 63.33
+        },
+        {
+          "material": "Drywall / Gypsum",
+          "score": 50.0
+        },
+        {
+          "material": "Glass Panel",
+          "score": 25.0
+        }
+      ]
+    }
+  ]
+}

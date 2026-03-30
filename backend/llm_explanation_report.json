@@ -1,0 +1,5 @@
+{
+  "summary": "Floor plan analyzed successfully. Multiple load-bearing and partition walls detected.",
+  "material_reasoning": "High-Strength Steel and Hollow Concrete Blocks were selected based on a 50/50 tradeoff between cost efficiency and structural strength.",
+  "structural_risks": "Warning: Ensure load-bearing walls are properly aligned. Fallback mode active; connect API for deep analysis."
+}
